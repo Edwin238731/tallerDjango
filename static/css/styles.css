@@ -1,0 +1,10 @@
+  
+  /***** Alerts css **********/
+  .show-alerts{
+    top: 100px;
+    z-index: 10;
+    right: 10px;
+    position: absolute;    
+
+    
+}
